@@ -1,0 +1,20 @@
+map/ExemploMap.java
+ map.ExemploMap
+list/ExemploList.java
+ list.ExemploList
+list/ExemploVector.java
+ list.ExemploVector
+list/ExercicioList.java
+ list.ExercicioList
+queue/ExercicioQueue.java
+ queue.ExercicioQueue
+set/ExercicioHashSet.java
+ set.ExercicioHashSet
+queue/ExemploLinkedList.java
+ queue.ExemploLinkedList
+comparators/Estudante.java
+ comparators.Estudante
+comparators/EstudanteOrdemIdadeReversa.java
+ comparators.EstudanteOrdemIdadeReversa
+comparators/ExercicioComparator.java
+ comparators.ExercicioComparator
